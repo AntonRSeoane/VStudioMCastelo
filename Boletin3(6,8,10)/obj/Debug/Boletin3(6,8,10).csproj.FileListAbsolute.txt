@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\Boletin3(6,8,10)\bin\Debug\Boletin3(6,8,10).exe.config
+C:\Users\anton\source\repos\Boletin3(6,8,10)\bin\Debug\Boletin3(6,8,10).exe
+C:\Users\anton\source\repos\Boletin3(6,8,10)\bin\Debug\Boletin3(6,8,10).pdb
+C:\Users\anton\source\repos\Boletin3(6,8,10)\obj\Debug\Boletin3(6,8,10).csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Boletin3(6,8,10)\obj\Debug\Boletin3(6,8,10).csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\Boletin3(6,8,10)\obj\Debug\Boletin3(6,8,10).csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Boletin3(6,8,10)\obj\Debug\Boletin3(6,8,10).exe
+C:\Users\anton\source\repos\Boletin3(6,8,10)\obj\Debug\Boletin3(6,8,10).pdb
