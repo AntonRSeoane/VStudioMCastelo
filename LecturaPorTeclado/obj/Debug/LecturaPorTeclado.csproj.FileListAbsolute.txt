@@ -1,0 +1,7 @@
+C:\Users\Alumno\source\repos\LecturaPorTeclado\obj\Debug\LecturaPorTeclado.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\LecturaPorTeclado\obj\Debug\LecturaPorTeclado.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\LecturaPorTeclado\bin\Debug\LecturaPorTeclado.exe.config
+C:\Users\Alumno\source\repos\LecturaPorTeclado\bin\Debug\LecturaPorTeclado.exe
+C:\Users\Alumno\source\repos\LecturaPorTeclado\bin\Debug\LecturaPorTeclado.pdb
+C:\Users\Alumno\source\repos\LecturaPorTeclado\obj\Debug\LecturaPorTeclado.exe
+C:\Users\Alumno\source\repos\LecturaPorTeclado\obj\Debug\LecturaPorTeclado.pdb
