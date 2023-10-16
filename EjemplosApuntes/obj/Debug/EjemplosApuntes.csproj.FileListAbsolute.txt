@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\EjemplosApuntes\bin\Debug\EjemplosApuntes.exe.config
+C:\Users\anton\source\repos\EjemplosApuntes\bin\Debug\EjemplosApuntes.exe
+C:\Users\anton\source\repos\EjemplosApuntes\bin\Debug\EjemplosApuntes.pdb
+C:\Users\anton\source\repos\EjemplosApuntes\obj\Debug\EjemplosApuntes.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\EjemplosApuntes\obj\Debug\EjemplosApuntes.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\EjemplosApuntes\obj\Debug\EjemplosApuntes.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\EjemplosApuntes\obj\Debug\EjemplosApuntes.exe
+C:\Users\anton\source\repos\EjemplosApuntes\obj\Debug\EjemplosApuntes.pdb
