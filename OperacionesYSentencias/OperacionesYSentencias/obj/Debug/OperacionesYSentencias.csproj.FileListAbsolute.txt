@@ -1,0 +1,8 @@
+C:\Users\Alumno\source\repos\OperacionesYSentencias\OperacionesYSentencias\bin\Debug\OperacionesYSentencias.exe.config
+C:\Users\Alumno\source\repos\OperacionesYSentencias\OperacionesYSentencias\bin\Debug\OperacionesYSentencias.exe
+C:\Users\Alumno\source\repos\OperacionesYSentencias\OperacionesYSentencias\bin\Debug\OperacionesYSentencias.pdb
+C:\Users\Alumno\source\repos\OperacionesYSentencias\OperacionesYSentencias\obj\Debug\OperacionesYSentencias.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\OperacionesYSentencias\OperacionesYSentencias\obj\Debug\OperacionesYSentencias.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\OperacionesYSentencias\OperacionesYSentencias\obj\Debug\OperacionesYSentencias.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\OperacionesYSentencias\OperacionesYSentencias\obj\Debug\OperacionesYSentencias.exe
+C:\Users\Alumno\source\repos\OperacionesYSentencias\OperacionesYSentencias\obj\Debug\OperacionesYSentencias.pdb
