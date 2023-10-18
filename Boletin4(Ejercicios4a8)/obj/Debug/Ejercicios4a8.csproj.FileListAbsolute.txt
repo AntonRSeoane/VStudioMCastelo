@@ -1,0 +1,8 @@
+C:\Users\anton\OneDrive\Documentos\SMR_MCastelo_2023_2024\AO\Github\VStudioMCastelo\Ejercicios4a8\bin\Debug\Ejercicios4a8.exe.config
+C:\Users\anton\OneDrive\Documentos\SMR_MCastelo_2023_2024\AO\Github\VStudioMCastelo\Ejercicios4a8\bin\Debug\Ejercicios4a8.exe
+C:\Users\anton\OneDrive\Documentos\SMR_MCastelo_2023_2024\AO\Github\VStudioMCastelo\Ejercicios4a8\bin\Debug\Ejercicios4a8.pdb
+C:\Users\anton\OneDrive\Documentos\SMR_MCastelo_2023_2024\AO\Github\VStudioMCastelo\Ejercicios4a8\obj\Debug\Ejercicios4a8.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\SMR_MCastelo_2023_2024\AO\Github\VStudioMCastelo\Ejercicios4a8\obj\Debug\Ejercicios4a8.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\OneDrive\Documentos\SMR_MCastelo_2023_2024\AO\Github\VStudioMCastelo\Ejercicios4a8\obj\Debug\Ejercicios4a8.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\SMR_MCastelo_2023_2024\AO\Github\VStudioMCastelo\Ejercicios4a8\obj\Debug\Ejercicios4a8.exe
+C:\Users\anton\OneDrive\Documentos\SMR_MCastelo_2023_2024\AO\Github\VStudioMCastelo\Ejercicios4a8\obj\Debug\Ejercicios4a8.pdb
