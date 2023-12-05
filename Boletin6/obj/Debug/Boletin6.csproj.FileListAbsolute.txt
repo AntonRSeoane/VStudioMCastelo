@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\Boletin6\bin\Debug\Boletin6.exe.config
+C:\Users\anton\source\repos\Boletin6\bin\Debug\Boletin6.exe
+C:\Users\anton\source\repos\Boletin6\bin\Debug\Boletin6.pdb
+C:\Users\anton\source\repos\Boletin6\obj\Debug\Boletin6.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Boletin6\obj\Debug\Boletin6.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Boletin6\obj\Debug\Boletin6.exe
+C:\Users\anton\source\repos\Boletin6\obj\Debug\Boletin6.pdb
+C:\Users\anton\source\repos\Boletin6(7-10)\bin\Debug\Boletin6.exe.config
+C:\Users\anton\source\repos\Boletin6(7-10)\bin\Debug\Boletin6.exe
+C:\Users\anton\source\repos\Boletin6(7-10)\bin\Debug\Boletin6.pdb
+C:\Users\anton\source\repos\Boletin6(7-10)\obj\Debug\Boletin6.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Boletin6(7-10)\obj\Debug\Boletin6.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Boletin6(7-10)\obj\Debug\Boletin6.exe
+C:\Users\anton\source\repos\Boletin6(7-10)\obj\Debug\Boletin6.pdb
