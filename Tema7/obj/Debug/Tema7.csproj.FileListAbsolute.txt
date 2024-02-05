@@ -1,0 +1,7 @@
+C:\Users\Alumno\Source\Repos\Tema7\bin\Debug\Tema7.exe.config
+C:\Users\Alumno\Source\Repos\Tema7\bin\Debug\Tema7.exe
+C:\Users\Alumno\Source\Repos\Tema7\bin\Debug\Tema7.pdb
+C:\Users\Alumno\Source\Repos\Tema7\obj\Debug\Tema7.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\Tema7\obj\Debug\Tema7.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\Tema7\obj\Debug\Tema7.exe
+C:\Users\Alumno\Source\Repos\Tema7\obj\Debug\Tema7.pdb
