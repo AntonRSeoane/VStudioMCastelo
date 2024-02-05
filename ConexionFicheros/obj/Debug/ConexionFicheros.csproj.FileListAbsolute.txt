@@ -1,0 +1,7 @@
+C:\Users\Alumno\Source\Repos\ConexionFicheros\bin\Debug\ConexionFicheros.exe.config
+C:\Users\Alumno\Source\Repos\ConexionFicheros\bin\Debug\ConexionFicheros.exe
+C:\Users\Alumno\Source\Repos\ConexionFicheros\bin\Debug\ConexionFicheros.pdb
+C:\Users\Alumno\Source\Repos\ConexionFicheros\obj\Debug\ConexionFicheros.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\ConexionFicheros\obj\Debug\ConexionFicheros.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\ConexionFicheros\obj\Debug\ConexionFicheros.exe
+C:\Users\Alumno\Source\Repos\ConexionFicheros\obj\Debug\ConexionFicheros.pdb
