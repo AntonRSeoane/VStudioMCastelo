@@ -1,7 +1,0 @@
-C:\Users\Alumno\Source\Repos\Boletin7\bin\Debug\Boletin7.exe.config
-C:\Users\Alumno\Source\Repos\Boletin7\bin\Debug\Boletin7.exe
-C:\Users\Alumno\Source\Repos\Boletin7\bin\Debug\Boletin7.pdb
-C:\Users\Alumno\Source\Repos\Boletin7\obj\Debug\Boletin7.csproj.AssemblyReference.cache
-C:\Users\Alumno\Source\Repos\Boletin7\obj\Debug\Boletin7.csproj.CoreCompileInputs.cache
-C:\Users\Alumno\Source\Repos\Boletin7\obj\Debug\Boletin7.exe
-C:\Users\Alumno\Source\Repos\Boletin7\obj\Debug\Boletin7.pdb
