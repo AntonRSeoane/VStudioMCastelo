@@ -1,0 +1,7 @@
+C:\Users\Alumno\Source\Repos\Tema8Repaso\bin\Debug\Tema8Repaso.exe.config
+C:\Users\Alumno\Source\Repos\Tema8Repaso\bin\Debug\Tema8Repaso.exe
+C:\Users\Alumno\Source\Repos\Tema8Repaso\bin\Debug\Tema8Repaso.pdb
+C:\Users\Alumno\Source\Repos\Tema8Repaso\obj\Debug\Tema8Repaso.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\Tema8Repaso\obj\Debug\Tema8Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\Tema8Repaso\obj\Debug\Tema8Repaso.exe
+C:\Users\Alumno\Source\Repos\Tema8Repaso\obj\Debug\Tema8Repaso.pdb

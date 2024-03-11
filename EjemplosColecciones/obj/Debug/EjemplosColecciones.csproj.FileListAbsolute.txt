@@ -1,0 +1,7 @@
+C:\Users\Alumno\Source\Repos\EjemplosColecciones\bin\Debug\EjemplosColecciones.exe.config
+C:\Users\Alumno\Source\Repos\EjemplosColecciones\bin\Debug\EjemplosColecciones.exe
+C:\Users\Alumno\Source\Repos\EjemplosColecciones\bin\Debug\EjemplosColecciones.pdb
+C:\Users\Alumno\Source\Repos\EjemplosColecciones\obj\Debug\EjemplosColecciones.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\EjemplosColecciones\obj\Debug\EjemplosColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\EjemplosColecciones\obj\Debug\EjemplosColecciones.exe
+C:\Users\Alumno\Source\Repos\EjemplosColecciones\obj\Debug\EjemplosColecciones.pdb
