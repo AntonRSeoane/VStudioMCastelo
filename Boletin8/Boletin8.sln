@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boletin8", "Boletin8.csproj", "{D3FBE1D9-3435-4F80-B72B-2FCF35520C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FBE1D9-3435-4F80-B72B-2FCF35520C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FBE1D9-3435-4F80-B72B-2FCF35520C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FBE1D9-3435-4F80-B72B-2FCF35520C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FBE1D9-3435-4F80-B72B-2FCF35520C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95A3FFA6-C0F1-44AF-9929-75C05E12F591}
+	EndGlobalSection
+EndGlobal
