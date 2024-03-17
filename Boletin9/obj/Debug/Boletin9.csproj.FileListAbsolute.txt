@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\Boletin9\bin\Debug\Boletin9.exe.config
+C:\Users\anton\source\repos\Boletin9\bin\Debug\Boletin9.exe
+C:\Users\anton\source\repos\Boletin9\bin\Debug\Boletin9.pdb
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.Form1.resources
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.Properties.Resources.resources
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.exe
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.pdb
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.Form2.resources
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.Form3.resources
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.Form5.resources
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.Form6.resources
+C:\Users\anton\source\repos\Boletin9\obj\Debug\Boletin9.Form7.resources
